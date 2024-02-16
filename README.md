@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/J0DgMjNz)
+# Deep Learning for Martian Terrain with Frost
+Utilizing Python and TensorFlow for Deep Learning to detect frost in High-Resolution Imaging Science Experiment (HiRISE) images of Mars.
+
+## Objective
+- Train a conventional Convolutional Neural Network combined with a multi-layer perceptron model. 
+
+- Construct a Transfer Learning model for the identical scenario.
+
+- Become acquainted with image processing libraries such as OpenCV or Keras.
+
+
