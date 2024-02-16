@@ -10,6 +10,6 @@ Utilizing Python and TensorFlow for Deep Learning to detect frost in High-Resolu
 
 ## Result
 
-[Click here to view the result in Jupyter Notebook](https://github.com/JohnnyandLee/License_Plates_Recognition)
+[Click here to view the result in Jupyter Notebook](https://github.com/JohnnyandLee/Deep_Learning_Martian_Terrain/blob/main/notebook/Lee_Kuan-Te_FinalProject.ipynb)
 
 
