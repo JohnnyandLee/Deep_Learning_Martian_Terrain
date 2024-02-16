@@ -8,4 +8,8 @@ Utilizing Python and TensorFlow for Deep Learning to detect frost in High-Resolu
 
 - Become acquainted with image processing libraries such as OpenCV or Keras.
 
+## Result
+
+[Click here to view the result in Jupyter Notebook](https://github.com/JohnnyandLee/License_Plates_Recognition)
+
 
